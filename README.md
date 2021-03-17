@@ -1,4 +1,4 @@
-### Hi there 👋,i'm Mondy
+### Hi there 👋,i'm Andreas Tirta
 
 <!--
 **MondyKg/MondyKg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
